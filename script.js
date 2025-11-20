@@ -18,4 +18,8 @@ function getWeather() {
         document.getElementById("result").innerText = 
             "Couldn't fetch weather!";
     });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f7bcc90f7f5f49db633ebe5b219904b2e0c98e47
